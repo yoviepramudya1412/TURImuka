@@ -1,0 +1,21 @@
+{
+    "modules": [
+        "splash",
+        "intro",
+        "login",
+        "dashboard",
+        "main_navigation",
+        "history",
+        "statistic",
+        "profie"
+    ],
+    "module_directory_name": "primary",
+    "experimental_mode": false,
+    "learning_mode": true,
+    "unfreezed": true,
+    "use_cubit": false,
+    "ignore_core_generator_for_directories": [
+        "lib/model",
+        "lib/models"
+    ]
+}
